@@ -1,0 +1,2 @@
+require('./setglobalvalue');
+require('./accessglobalvalue');

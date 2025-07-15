@@ -1,0 +1,1 @@
+console.log("Best Designer in the world is "+global.bestdesigner);
